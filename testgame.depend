@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1619592103 source:e:\skin\sdllll\testgame\bg.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"SDL.h"
+	"wrapped.h"
+	"BG.h"
+
+1619592103 e:\skin\sdllll\testgame\bg.h
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	<string>
+	<sstream>
+	"SDL.h"
+	"wrapped.h"
+
+1619593958 e:\skin\sdllll\testgame\sdl.h
+	<SDL.h>
+	<iostream>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"wrapped.h"
+
+1619592558 e:\skin\sdllll\testgame\crt.h
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	<vector>
+	"SDL.h"
+	"wrapped.h"
+	"Bullet.h"
+	"boss.h"
+
+1619601544 source:e:\skin\sdllll\testgame\crt.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"SDL.h"
+	"wrapped.h"
+	"crt.h"
+	"BG.h"
+	"Object.h"
+	"Bullet.h"
+	"key.h"
+	"boss.h"
+
+1619593958 source:e:\skin\sdllll\testgame\sdl.cpp
+	"SDL.h"
+	"crt.h"
+	"BG.h"
+	"Object.h"
+	"wrapped.h"
+
+1619598902 source:e:\skin\sdllll\testgame\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<SDL_mixer.h>
+	"SDL.h"
+	"crt.h"
+	"BG.h"
+	"Object.h"
+	"wrapped.h"
+	"Bullet.h"
+	"key.h"
+
+1619600220 e:\skin\sdllll\testgame\wrapped.h
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	"SDL.h"
+
+1618856065 e:\skin\sdllll\testgame\object1.h
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	"SDL.h"
+	"wrapped.h"
+
+1618949098 source:e:\skin\sdllll\testgame\object1.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"SDL.h"
+	"wrapped.h"
+	"Object1.h"
+
+1619581695 source:e:\skin\sdllll\testgame\wrapped.cpp
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	"SDL.h"
+	"wrapped.h"
+
+1619521261 e:\skin\sdllll\testgame\object.h
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	"SDL.h"
+	"wrapped.h"
+
+1619586863 source:e:\skin\sdllll\testgame\object.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"SDL.h"
+	"wrapped.h"
+	"Object.h"
+
+1619561928 source:e:\skin\sdllll\testgame\bullet.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"SDL.h"
+	"wrapped.h"
+	"Bullet.h"
+
+1619567211 e:\skin\sdllll\testgame\bullet.h
+	<SDL.h>
+	<SDL_image.h>
+
+1619459831 source:e:\skin\sdllll\testgame\key.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"SDL.h"
+	"wrapped.h"
+	"key.h"
+
+1619459831 e:\skin\sdllll\testgame\key.h
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	"SDL.h"
+	"wrapped.h"
+
+1619586847 e:\skin\sdllll\testgame\boss.h
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	<vector>
+	"SDL.h"
+	"wrapped.h"
+	"Bullet.h"
+
+1619586847 source:e:\skin\sdllll\testgame\boss.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<vector>
+	"SDL.h"
+	"wrapped.h"
+	"boss.h"
+	"Bullet.h"
+
+1619571686 source:e:\skin\sdllll\testgame\fonts.cpp
+
+1619578208 source:e:\skin\sdllll\testgame\menu.cpp
+
